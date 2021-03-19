@@ -1,5 +1,5 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- #### My name is Upendra Dwivedi
+#### My name is Upendra Dwivedi
 #### I am a Student at NIT Hamirpur, Himachal Pradesh
 Passionate about programming.
 
