@@ -7,9 +7,9 @@ Passionate about programming.
 Skills: Python/ django/ Tkinter/ HTML / C++
 
 
-
+<p align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Upendradwivedi&show_icons=true) 
- 
+ </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Upendradwivedi)](https://github.com/anuraghazra/github-readme-stats)
 
