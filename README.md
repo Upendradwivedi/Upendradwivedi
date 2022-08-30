@@ -4,7 +4,7 @@
 Passionate about programming.
 
 
-Skills: Python/ django/ Tkinter/ HTML / C++
+Skills: Python/ Machine Learning/ Data analytics/ SQL / C++
 
 
 
