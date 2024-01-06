@@ -1,10 +1,10 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### My name is Upendra Dwivedi
-#### I am a Student at NIT Hamirpur, Himachal Pradesh
+#### I am working as a Data Engineer at Merilytics,
 Passionate about programming.
 
 
-Skills: Python/ Machine Learning/ Data analytics/ SQL / C++
+Skills: Python/ Apache Spark/ Azure Data Factory/ Azure Databricks/ SQL/ Azure DevOps
 
 
 
